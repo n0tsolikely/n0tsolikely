@@ -1,11 +1,3 @@
-Yes, username is `n0tsolikely`.
-
-Create the public profile README repo named exactly:
-
-n0tsolikely
-
-Add a clean minimal README.md with this content:
-
 # Peter Reynolds / notsolikely
 
 Building AI systems, agent runtimes, and practical website/demo projects.
