@@ -1,16 +1,21 @@
-## Hi there 👋
+Yes, username is `n0tsolikely`.
 
-<!--
-**n0tsolikely/n0tsolikely** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Create the public profile README repo named exactly:
 
-Here are some ideas to get you started:
+n0tsolikely
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Add a clean minimal README.md with this content:
+
+# Peter Reynolds / notsolikely
+
+Building AI systems, agent runtimes, and practical website/demo projects.
+
+## Current Builds
+
+- Stuart — transcript formalization and meeting intelligence system
+- Synapse Guild — website factory and project governance system
+- OpenClaw Wingman — agent/operator runtime experiments
+
+## Live Website Demos
+
+- [BLGR Steel Roofing demo](https://roofing.peterreynolds.dev)
