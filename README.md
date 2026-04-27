@@ -11,3 +11,5 @@ Building AI systems, agent runtimes, and practical website/demo projects.
 ## Live Website Demos
 
 - [BLGR Steel Roofing demo](https://roofing.peterreynolds.dev)
+- [Synapse Guild Website](https://synapseguild.com)
+- [Synapse Guild Projects](https://synapseguild.dev)
