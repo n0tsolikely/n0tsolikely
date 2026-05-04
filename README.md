@@ -14,3 +14,5 @@ Building AI systems, agent runtimes, and practical website/demo projects.
 - [Synapse Guild Website](https://synapseguild.com)
 - [Synapse Guild Projects](https://synapseguild.dev)
 - [Notsolikely](notsolikely.com)
+- [Synapse Guild Kawartha Lakes](https://synapseguild.com/web-design-kawartha-lakes)
+-[Web Design Kawartha](https://synapseguild.com/web-design-kawartha-lakes)
